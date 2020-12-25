@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/kong101/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/kong101/static/js/main.f8ff1029.chunk.js",
+    "main.js.map": "/kong101/static/js/main.f8ff1029.chunk.js.map",
+    "runtime-main.js": "/kong101/static/js/runtime-main.4d77e636.js",
+    "runtime-main.js.map": "/kong101/static/js/runtime-main.4d77e636.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/kong101/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.20d3879d.chunk.js": "/kong101/static/js/2.20d3879d.chunk.js",
+    "static/js/2.20d3879d.chunk.js.map": "/kong101/static/js/2.20d3879d.chunk.js.map",
+    "static/js/3.adfbcdeb.chunk.js": "/kong101/static/js/3.adfbcdeb.chunk.js",
+    "static/js/3.adfbcdeb.chunk.js.map": "/kong101/static/js/3.adfbcdeb.chunk.js.map",
+    "index.html": "/kong101/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/kong101/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.ab7136cd.chunk.css.map": "/kong101/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.20d3879d.chunk.js.LICENSE.txt": "/kong101/static/js/2.20d3879d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/kong101/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d77e636.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.20d3879d.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.f8ff1029.chunk.js"
+  ]
+}
